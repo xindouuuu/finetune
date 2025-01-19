@@ -1,0 +1,1426 @@
+[
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: network unavailable, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: poor network connection"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: one way audio, Type: media"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: one way audio"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: cdp not working, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: cdp not working"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: network_timeout_error, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: poor_network_connection"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: app_crash_on_launch, Type: application"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: corrupted_cache_files"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: battery_drain_rapid, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: background_apps_consumption"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: storage_full_warning, Type: system"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: insufficient_storage_space"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: bluetooth_pairing_failed, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: device_compatibility_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: screen_unresponsive, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: system_resource_overload"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: camera_focus_issue, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: lens_obstruction_or_damage"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: app_not_updating, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: play_store_cache_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: overheating_warning, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: intensive_app_usage"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: slow_charging, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: charging_system_problem"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: wifi_disconnection, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: router_signal_interference"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: gps_not_accurate, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: outdated_gps_data"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: microphone_not_working, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: blocked_microphone"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: app_freezing, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: insufficient_ram"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: no_sound_output, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: audio_jack_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: battery_drain, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: background_apps"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: slow_performance, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: outdated_os"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: screen_flickering, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: loose_display_connector"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: overheating, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: blocked_ventilation"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: bluetooth_not_connecting, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: outdated_bluetooth_driver"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: app_crashing, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: corrupted_app_data"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: no_internet, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: dns_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: camera_not_working, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: camera_app_permission"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: touch_screen_unresponsive, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: screen_protector_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: sim_card_not_detected, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: sim_card_slot_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: speaker_distortion, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: debris_in_speaker"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: notification_delay, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: power_saving_mode"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: fingerprint_sensor_not_working, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: dirty_sensor"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: wifi_slow, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: network_congestion"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_charging, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: faulty_charging_cable"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: gps_signal_lost, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: gps_antenna_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_restarts_randomly, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: corrupted_os"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: call_drops, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: weak_signal"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: app_not_installing, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: insufficient_storage"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: screen_freezing, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: app_conflict"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: no_vibration, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: vibration_motor_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_overheating, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: excessive_background_processes"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: no_sim_card, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: sim_card_not_inserted_properly"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_turning_on, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: drained_battery"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: wifi_not_connecting, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: incorrect_wifi_password"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detected_by_pc, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: usb_driver_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_ringing, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: silent_mode_enabled"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_vibrating, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: vibration_motor_fault"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_charging, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: faulty_charger"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_headphones, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: headphone_jack_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_syncing, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: sync_settings_disabled"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_sim, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: sim_card_slot_fault"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_wifi, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: wifi_adapter_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_bluetooth, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: bluetooth_adapter_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_usb, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: usb_port_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_sd_card, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: sd_card_slot_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_charger, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: charging_port_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_camera, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: camera_hardware_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_microphone, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: microphone_hardware_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_speaker, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: speaker_hardware_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_touch, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: touch_screen_hardware_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_fingerprint, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: fingerprint_sensor_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_face, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: face_recognition_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_voice, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: voice_recognition_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_gps, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: gps_hardware_issue"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_wifi, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: wifi_adapter_faulty"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_bluetooth, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: bluetooth_adapter_faulty"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_usb, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: usb_cable_not_connected_properly"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_sd_card, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: sd_card_not_inserted_properly"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_charger, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: charger_not_connected_properly"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_camera, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: camera_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_microphone, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: microphone_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_speaker, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: speaker_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_touch, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: touch_screen_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_fingerprint, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: fingerprint_sensor_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_face, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: face_recognition_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_voice, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: voice_recognition_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_gps, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: gps_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_wifi, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: wifi_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_bluetooth, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: bluetooth_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_usb, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: usb_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_sd_card, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: sd_card_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_charger, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: charger_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_camera, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: camera_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_microphone, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: microphone_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_speaker, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: speaker_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_touch, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: touch_screen_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_fingerprint, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: fingerprint_sensor_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_face, Type: hardware"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: face_recognition_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_voice, Type: software"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: voice_recognition_app_not_responding"
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are helpful assistant to analysis cisco ip phone log. given the error pattern and type, you need to find the root cause."
+            },
+            {
+                "role": "user",
+                "content": "Error pattern: phone_not_detecting_gps, Type: connectivity"
+            },
+            {
+                "role": "assistant",
+                "content": "Root cause: gps_app_not_responding"
+            }
+        ]
+    }
+]
